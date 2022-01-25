@@ -1,2 +1,2 @@
-This is sample document.
+This is a sample document.
 This is another line!
